@@ -1,0 +1,5 @@
+distance,variable,r2,p_value
+Euclidean,dist_to_logging_km,0.035015894253356786,0.433
+Euclidean,secchi,0.2326576395272046,0.003
+Bray-Curtis,dist_to_logging_km,0.06786505690664207,0.213
+Bray-Curtis,secchi,0.27879739544172455,0.002

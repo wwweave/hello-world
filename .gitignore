@@ -1,0 +1,10 @@
+# R artifacts
+*.Rhistory
+.Rdata
+.Ruserdata
+report_cache/
+report_files/
+Rplots.pdf
+
+# RDS intermediate files (reproducible from scripts)
+output/*.rds

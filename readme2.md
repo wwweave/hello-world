@@ -35,15 +35,15 @@ Keep your scripts short and modular to facilitate debugging. Don't complete all 
 ## Steps
 As you go tick of the steps below. 
 
-[ ]  Import the datasets
-[ ] Wrangle data to make a combined dataset
-[ ] Calculate dissimilarity matrices based on benthic cover composition. Here we will use Euclidean and Bray-Curtis distances
-[ ] Perform nMDS analysis to visualize site dispersion in ordination space
-[ ] Identify ecological patterns and potential groupings of sites
-[ ] Assess the stress value to determine the reliability of the nMDS representation
-[ ] Explore how ecological communities relate to distance to logging
-[ ] Use your vision capabilities to interpret figures
-[ ] Write an Rmd report summarizing the findings
+[x]  Import the datasets
+[x] Wrangle data to make a combined dataset
+[x] Calculate dissimilarity matrices based on benthic cover composition. Here we will use Euclidean and Bray-Curtis distances
+[x] Perform nMDS analysis to visualize site dispersion in ordination space
+[x] Identify ecological patterns and potential groupings of sites
+[x] Assess the stress value to determine the reliability of the nMDS representation
+[x] Explore how ecological communities relate to distance to logging
+[x] Use your vision capabilities to interpret figures
+[x] Write an Rmd report summarizing the findings
 
 As you go, document the methodology. Be sure to output both figures (as png files) and numbers that can be used in the final report.
 
