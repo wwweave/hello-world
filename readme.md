@@ -1,3 +1,5 @@
+## this was an example from Brown & Spillias, 2026 (https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210x.70267)
+
 # Benthic Cover Analysis with Multidimensional Scaling (MDS)
 
 ## Introduction
